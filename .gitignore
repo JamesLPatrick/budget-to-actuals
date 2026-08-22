@@ -5,3 +5,4 @@ data/raw/
 .env
 *.log
 .DS_Store
+PROJECT_PLAN.md

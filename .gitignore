@@ -6,3 +6,6 @@ data/raw/
 *.log
 .DS_Store
 PROJECT_PLAN.md
+target/
+logs/
+dbt_packages/
